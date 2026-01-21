@@ -1,5 +1,4 @@
-# yeniculhamehmetarda-college-tour-tsp
-College Tour TSP
+
 # College Tour TSP
 
 This project solves a real-world multi-day Traveling Salesman Problem
